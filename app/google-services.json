@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173476213330",
+    "project_id": "pixel-effect-3717a",
+    "storage_bucket": "pixel-effect-3717a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173476213330:android:1ee90012a89a83ed5c658b",
+        "android_client_info": {
+          "package_name": "com.capstone.videoeffect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173476213330-sgvbjrv4ml5j6dcf4givr5rdpsbp5h3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaWV0uU52xct2lSpan2niauUy7UgZKlIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173476213330-sgvbjrv4ml5j6dcf4givr5rdpsbp5h3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
